@@ -1,4 +1,4 @@
-### Hi, I'm [Raunak](rnksngh.com) 😄
+### Hi, I'm [Raunak](http://rnksngh.com) 😄
 
 I'm currently a blockchain/fullstack engineer in the Defi space (at [Mimo Labs](https://www.mimo.capital)). Before then, I was an early engineer for [Cultiveit](http://cultiveit.io), a burnout consulting company. In a previous life, I was a civil engineering consultant, where I worked on public infrastructure in Los Angeles. I am constantly finding new ways to utilize my unique background and interests. 
 
